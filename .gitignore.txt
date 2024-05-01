@@ -1,0 +1,2 @@
+# Ignore all files with a '.DS_Store' extension
+*.DS_Store
