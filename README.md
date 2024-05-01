@@ -9,7 +9,7 @@ A Web-Based app made with Streamlit! It's purpose is to help users easily conver
 # Steps
 1) Clone the Repository:
 Open your terminal or command prompt and navigate to the directory where you want to clone the repository. Then, use the git clone command followed by the repository URL.
-(git clone https://github.com/NickBalatos/Converter)
+(git clone https://github.com/NickBalatos/CurrencyConverter)
 
 2) Navigate to the Repository:
 Once the repository is cloned, navigate into the repository directory using the cd command.
