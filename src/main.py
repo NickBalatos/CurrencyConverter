@@ -15,7 +15,6 @@ def convert_currency(amount, from_currency, to_currency):
 
 def main():
     st.title("Currency Converter")
-    #st.image("moneywings.png", use_column_width=False, width=100)
     st.write("")
 
     st.write("This is a simple currency converter that uses the exchange rate API from exchangerate-api.com. You can convert between USD, EUR, GBP, JPY, AUD, CAD, CHF, CNH, HKD, and NZD.")
