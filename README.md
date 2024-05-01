@@ -1,8 +1,11 @@
 # Currency Converter
 A Web-Based app made with Streamlit! It's purpose is to help users easily convert Currencies.
 
-# How to Run
-# Prerequisites
+# Deployed App
+https://currencyconvbalatos.streamlit.app/
+
+# How to Run Localy
+-Prerequisites
 1) Git: Ensure that Git is installed on your system. 
 2) Python: Make sure you have Python installed on your system.
 
